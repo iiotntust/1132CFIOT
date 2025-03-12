@@ -20,10 +20,16 @@ This class has two hands-on exercises: **1. Connect IoT to AWS Cloud**. **2. Fac
 > ![image](pic/投影片4.JPG)  
 
 - Follow the video create things
-- Download the device certificate, private key and CA certificate.
-- ![image](pic/pic1.JPG)  
+- Download the device certificate, private key and CA certificate.  
+
 ### Arduino setting
-- ![image](pic/pic.JPG)  
+-  Put esp32 index into Arduino
+-  https://dl.espressif.com/dl/package_esp32_index.json
+-  Add esp32 boards from boards manager  
+![image](pic/pic1.jpg)  
+- Download the library from library manager and add new tab  
+![image](pic/pic.jpg)  
+---------------------------------------------------
 ## :+1:Exercise 2 Alternative: AWS AI Workshop
 ### 2019 AWS AI Workshop
 https://github.com/wimade4u/2019CFiot
