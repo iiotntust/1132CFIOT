@@ -20,9 +20,6 @@ This class has two hands-on exercises: **1. Connect IoT to AWS Cloud**. **2. Fac
 > ### Your end point at MQTT test client
 > ![image](pic/投影片4.JPG)  
 
-- Follow the video create things
-- Download the device certificate, private key and CA certificate.  
-
 ### Arduino setting
 -  Put esp32 index into Arduino
 -  https://dl.espressif.com/dl/package_esp32_index.json
@@ -30,6 +27,9 @@ This class has two hands-on exercises: **1. Connect IoT to AWS Cloud**. **2. Fac
 ![image](pic/pic1.jpg)  
 - Download the library from library manager and add new tab  
 ![image](pic/pic.jpg)  
+
+- Follow the video create things
+- Download the device certificate, private key and CA certificate.  
 ---------------------------------------------------
 ## :+1:Exercise 2 Alternative: AWS AI Workshop
 ### 2019 AWS AI Workshop
