@@ -11,11 +11,11 @@ This class has two hands-on exercises: **1. Connect IoT to AWS Cloud**. **2. Fac
 ![image](pic/投影片1.JPG)  
 > [!CAUTION]
 > ### There are something different with the video.
-> Video start from 3:50
-> In the vedio, you can add the policy when you creating things, but now you have to create first.  
+> - Video start from 3:50
+> - In the vedio, you can add the policy when you creating things, but now you have to create first.  
 > ![image](pic/投影片2.JPG)  
 > ### Also setting are change, Fleet indexing
-> There can make yor device connection enable.
+> - There can make yor device connection enable.
 > ![image](pic/投影片3.JPG)  
 > ### Your end point at MQTT test client
 > ![image](pic/投影片4.JPG)  
