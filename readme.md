@@ -7,17 +7,17 @@ This class has two hands-on exercises: **1. Connect IoT to AWS Cloud**. **2. Fac
 - Project and source code: https://how2electronics.com/connecting-esp32-to-amazon-aws-iot-core-using-mqtt/
 - ESP32-DHT-11 module pinout: https://esp32io.com/tutorials/esp32-dht11 ![ESP32_DHT-11](https://github.com/iiotntust/1122CFiot/assets/56021651/8e5a4641-ada0-4916-9455-5db77e155f42)
 ### How to active AWS learn lab
-
+![image](pic/投影片1.JPG)  
 > [!CAUTION]
 > ### There are something different with the video.
 > Video start from 3:50
-> In the vedio, you can add the policy when you creating things, but now you have to create first.
->
+> In the vedio, you can add the policy when you creating things, but now you have to create first.  
+> ![image](pic/投影片2.JPG)  
 > ### Also setting are change, Fleet indexing
 > There can make yor device connection enable.
->
+> ![image](pic/投影片3.JPG)  
 > ### Your end point at MQTT test client
-> 
+> ![image](pic/投影片4.JPG)  
 - Follow the video create things
 - Download the device certificate, private key and CA certificate.
 ## :+1:Exercise 2 Alternative: AWS AI Workshop
