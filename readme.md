@@ -17,9 +17,13 @@ This class has two hands-on exercises: **1. Connect IoT to AWS Cloud**. **2. Fac
 > There can make yor device connection enable.
 > ![image](pic/投影片3.JPG)  
 > ### Your end point at MQTT test client
-> ![image](pic/投影片4.JPG)  
+> ![image](pic/投影片4.JPG)
+
 - Follow the video create things
 - Download the device certificate, private key and CA certificate.
+- 
+### Arduino setting
+- 
 ## :+1:Exercise 2 Alternative: AWS AI Workshop
 ### 2019 AWS AI Workshop
 https://github.com/wimade4u/2019CFiot
