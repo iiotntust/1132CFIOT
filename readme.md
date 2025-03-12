@@ -1,4 +1,4 @@
-# 1122CFiot
+# 1132CFiot
 This class has two hands-on exercises: **1. Connect IoT to AWS Cloud**. **2. Facial recognition**. The first exercise familiarizes students with IoT and AWS IoT platforms; the second experiences artificial intelligence with facial recognition.
 ## :+1:Exercise 1: Connect IoT to AWS Cloud
 ### Getting Started with Amazon AWS IoT Core using ESP32 
@@ -6,6 +6,8 @@ This class has two hands-on exercises: **1. Connect IoT to AWS Cloud**. **2. Fac
 - YouTube demo video: https://www.youtube.com/watch?v=idf-gGXvIu4
 - Project and source code: https://how2electronics.com/connecting-esp32-to-amazon-aws-iot-core-using-mqtt/
 - ESP32-DHT-11 module pinout: https://esp32io.com/tutorials/esp32-dht11 ![ESP32_DHT-11](https://github.com/iiotntust/1122CFiot/assets/56021651/8e5a4641-ada0-4916-9455-5db77e155f42)
+### How to active AWS learn lab
+
 ## :+1:Exercise 2 Alternative: AWS AI Workshop
 ### 2019 AWS AI Workshop
 https://github.com/wimade4u/2019CFiot
