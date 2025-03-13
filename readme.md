@@ -22,6 +22,10 @@ This class has two hands-on exercises: **1. Connect IoT to AWS Cloud**. **2. Fac
 > ![image](pic/投影片4.JPG)  
 
 ### Arduino setting
+> [!CAUTION]
+> CH340 driver: https://www.arduined.eu/ch340-windows-10-driver-download/  
+> If you don't have CH340 driver, your Arduino IDE would not recognize your ESP32  
+
 -  Put esp32 index into Arduino
 -  https://dl.espressif.com/dl/package_esp32_index.json
 -  Add esp32 boards from boards manager  
