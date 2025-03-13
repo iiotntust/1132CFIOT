@@ -35,6 +35,7 @@ This class has two hands-on exercises: **1. Connect IoT to AWS Cloud**. **2. Fac
 
 - Follow the video create things
 - Download the device certificate, private key and CA certificate.
+- ![image](pic/螢幕擷取畫面 2025-03-13 113603.png)
 - After your code upload finish, don't forget to press EN bottom, making your esp32 restart
 ---------------------------------------------------
 ## :+1:Exercise 2 Alternative: AWS AI Workshop
