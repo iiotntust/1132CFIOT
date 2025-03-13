@@ -24,7 +24,8 @@ This class has two hands-on exercises: **1. Connect IoT to AWS Cloud**. **2. Fac
 ### Arduino setting
 > [!CAUTION]
 > CH340 driver: https://www.arduined.eu/ch340-windows-10-driver-download/  
-> If you don't have CH340 driver, your Arduino IDE would not recognize your ESP32  
+> If you don't have CH340 driver, your Arduino IDE would not recognize your ESP32
+> After you open the serial monitor, change the baud rate to 115200 otherwise you cannot see the message from ESP32
 
 -  Put esp32 index into Arduino
 -  https://dl.espressif.com/dl/package_esp32_index.json
